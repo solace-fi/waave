@@ -1,0 +1,29 @@
+# Deployment Addresses
+
+Rinkeby
+```
+Contract Name    | Address
+-------------------------------------------------------------
+WaRegistry       | 0x670Fc618C48964F806Cd655600541807ed83a9C5
+WETH             | 0xc778417E063141139Fce010982780140Aa0cD5Ab
+waWETH           | 0x4e1A6cE8EdEd8c9C74CbF797c6aA0Fbc12D89F71
+DAI              | 0x5592EC0cfb4dbc12D3aB100b257153436a1f0FEa
+waDAI            | 0x51758E33047b1199439212cBAf3ecd1C04165bF0
+BAT              | 0xbF7A7169562078c96f0eC1A8aFD6aE50f12e5A99
+waBAT            | 0x18dC87041956144F3EB1371c9E959e3dcAD528D7
+```
+
+Kovan
+```
+Contract Name    | Address
+-------------------------------------------------------------
+WaRegistry       | 0x166956c3A96c875610DCfb80F228Da0f4e92B73B
+WETH             | 0xd0A1E359811322d97991E03f863a0C30C2cF029C
+waWETH           | 0xe0f1cdB8AC8d75Af103b227Ee0aE7c7fd47A4A83
+DAI              | 0xFf795577d9AC8bD7D90Ee22b6C1703490b6512FD
+waDAI            | 0xcc920E61c23f39Ae5AFc7B494E669b975594Eeea
+USDT             | 0x13512979ADE267AB5100878E2e0f485B568328a4
+waUSDT           | 0x23887f03647282f4E5305e6Cd877842D76De07a1
+WBTC             | 0xD1B98B6607330172f1D991521145A22BCe793277
+waWBTC           | 0x8519f664C1a03117C49C0Bd637248B74A0561F9F
+```
